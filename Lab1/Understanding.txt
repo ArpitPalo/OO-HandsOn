@@ -1,0 +1,10 @@
+In Lab1 HandsOn:
+
+Account 1 amount is displayed without adding any interest rate on the given amount;
+
+On Account 2 amount is displayed after adding the interest of 8.5% on the given amount;
+
+AccManager2 class is makes use of the getters and setter methods defined in the account class,
+while AccManager1 class is accesses the data members directly and hence there is no calculation of the interest.
+
+As we understand that it's always a better way to use get and set the data members value through functions and not directly
